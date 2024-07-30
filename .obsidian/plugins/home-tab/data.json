@@ -1,0 +1,61 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Home.md",
+      "timestamp": 1722320368528
+    },
+    {
+      "filepath": "Spaces/使用方法/使用方法.md",
+      "timestamp": 1722320367762
+    },
+    {
+      "filepath": "Spaces/Spaces.md",
+      "timestamp": 1722320362787
+    },
+    {
+      "filepath": "Spaces/New Files/New Files.md",
+      "timestamp": 1722319569375
+    },
+    {
+      "filepath": "Spaces/Templates/Daily Note Template.md",
+      "timestamp": 1722319292229
+    }
+  ],
+  "bookmarkedFileStore": [
+    {
+      "filepath": "README.md"
+    },
+    {
+      "filepath": "Home.md"
+    }
+  ],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

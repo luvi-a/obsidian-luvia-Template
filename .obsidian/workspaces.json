@@ -1,0 +1,198 @@
+{
+  "workspaces": {
+    "MainLayout": {
+      "main": {
+        "id": "57533debc75c8fb3",
+        "type": "split",
+        "children": [
+          {
+            "id": "12466d8658997933",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3906c80c3ea3cd76",
+                "type": "leaf",
+                "state": {
+                  "type": "home-tab-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ae4951a936e4be59",
+        "type": "split",
+        "children": [
+          {
+            "id": "4bcd4905e727dc12",
+            "type": "tabs",
+            "dimension": 23.31002331002331,
+            "children": [
+              {
+                "id": "69f36554fd634e54",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "17dcac9d97f1d80f",
+            "type": "tabs",
+            "dimension": 43.35664335664336,
+            "children": [
+              {
+                "id": "78e8e69c9aa42417",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9bb745725d01c06d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1ea42af0cd061ab0",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "182334eee6995679",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "c9f85bdb67eaa84c",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 247.5
+      },
+      "right": {
+        "id": "8fa04523c762f5d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "16dd2db48013b50a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d90ee6a704989b7c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7b914ab799a3cb91",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "0828badd4f3fdfb5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "94a3fe9343731dba",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5d4723b43144b7e4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c5168e676e06b2e9",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 283.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:クイックスイッチャーを開く": true,
+          "graph:グラフビューを開く": true,
+          "canvas:新規キャンバスを作成": true,
+          "daily-notes:今日のデイリーノートを開く": true,
+          "templates:テンプレートを挿入": true,
+          "command-palette:コマンドパレットを開く": true,
+          "workspaces:ワークスペースレイアウトを管理": false,
+          "homepage:Open homepage": false,
+          "obsidian-day-planner:Timeline": true,
+          "obsidian-kanban:カンバンボードを新規作成": true,
+          "templater-obsidian:Templater": true
+        }
+      },
+      "active": "3906c80c3ea3cd76",
+      "mtime": "2024-07-30T14:48:10+09:00"
+    }
+  },
+  "active": "MainLayout"
+}
